@@ -1,0 +1,34 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Coffee2Js",
+		"ConvertToUTF8",
+		"CSS Less(ish)",
+		"CSS Snippets",
+		"CSS3",
+		"Emmet",
+		"HTML Snippets",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"IMESupport",
+		"JavaScript Completions",
+		"JS Snippets",
+		"Less2Css",
+		"List LESS Variables",
+		"Markdown Preview",
+		"MarkdownLight",
+		"Material Theme",
+		"My Snippets",
+		"Package Control",
+		"SideBarEnhancements",
+		"Sublime Text 3 Snippets",
+		"SublimeLinter"
+	]
+}

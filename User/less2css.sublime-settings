@@ -1,0 +1,11 @@
+{
+	"minify": false,
+	"outputDir": "auto",
+
+   
+    "minName": false,
+   
+    "showErrorWithWindow": true,
+  
+
+}
